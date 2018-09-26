@@ -1,0 +1,28 @@
+ El volumen de la unidad C es Windows8_OS
+ El n£mero de serie del volumen es: 8CAA-DE81
+
+ Directorio de C:\Users\nomed\Desktop\PED_SIDI\Pantallazos
+
+09/07/2017  22:07    <DIR>          .
+09/07/2017  22:07    <DIR>          ..
+03/07/2017  22:32           365.258 01_inicio.png
+03/07/2017  22:33           196.835 02_reg_auth_repo.png
+03/07/2017  22:34           214.103 03_reg_clientes.png
+03/07/2017  22:35           227.530 04_auth_user_lista_cliente.png
+03/07/2017  22:37           243.360 05_todos_working_lista_repos.png
+03/07/2017  22:39           247.422 06_user1_fichero1.png
+03/07/2017  22:40           241.477 07_user2_fichero2.png
+03/07/2017  22:42           247.913 08_user2_bajafichero2..png
+03/07/2017  22:43           249.187 09_user1_compartefichero.png
+03/07/2017  22:45           249.377 10_user2_descarga_fichero_compartido.png
+03/07/2017  22:47           278.229 11_user2_intenta_borrar_fichero_comaprtido.png
+03/07/2017  22:50           248.412 12_lista_ficheros.png
+03/07/2017  22:52           248.054 13_user1_borrafichero1_que_estaba_comaprtido.png
+03/07/2017  22:55           422.649 14_user2_desconectado.png
+03/07/2017  22:56           990.560 15_user1_repo1_desconectados.png
+03/07/2017  22:57           861.585 16_repo1_reconectada.png
+03/07/2017  22:58           729.504 17_user2_reconectado.png
+03/07/2017  22:59           995.071 18_user2_desconectados.png
+09/07/2017  22:07                 0 texto.txt
+              19 archivos      7.256.526 bytes
+               2 dirs  755.011.670.016 bytes libres
