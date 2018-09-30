@@ -1,0 +1,10 @@
+psql -U postgres -W -h localhost ped2018
+
+la contraseña es sbd2018user
+
+select max(media) as valorMedia
+from dataclean
+where gsm19023 >= 100 and gsm19023 <= 1000;
+
+select avg(gsd19025) as media
+from dataclean;

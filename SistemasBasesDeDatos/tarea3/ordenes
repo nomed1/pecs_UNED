@@ -1,0 +1,3 @@
+abrir una terminal en la carpeta tarea3 y ejecutar:
+
+python tarea3.py DataClean.txt -r local > output

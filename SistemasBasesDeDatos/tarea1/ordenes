@@ -1,0 +1,4 @@
+abrir una terminal en la carpeta tarea1 y ejecutar:
+
+python tarea1.py GDS1001_full.soft.txt -r local > DataClean.txt
+

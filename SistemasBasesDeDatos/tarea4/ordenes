@@ -1,0 +1,36 @@
+columnasOriginales:
+"idref", "ident", "gsm19023", "gsd19024", "gsd19025", "gsd19026", "genetitle", "genesymbol", "geneID", "uniGenetitle", "uniGenesymbol", "uniGeneID", "NucleotideTitle", "GI", "GenBankAccession", "PlatformCLONEID", "PlatformORF", "PlatformSPOTID", "Chromosomelocation", "Chromosomeannotation", "GOFunction,GOProcess", "GOComponent", "GOFunctionID", " GOProcessID", "GOComponentID"
+
+columnas DataClean.txt:
+"idref", "ident", "gsm19023", "gsd19024", "gsd19025", "gsd19026", "genetitle", "genesymbol", "geneID", "uniGenetitle", "uniGenesymbol", "uniGeneID", "NucleotideTitle", "maximo", "minimo", "media"
+
+ruta del fichero de datos:
+/home/nomed/PEDSBD18/tarea4/DataClean.txt
+
+posgresql:
+
+sudo -i -u postgres
+psql
+
+create table dataclean (
+ idref text,
+ ident text, 
+ gsm19023 real,
+ gsd19024 real, 
+ gsd19025 real,
+ gsd19026 real, 
+ genetitle text,
+ genesymbol text,
+ geneID text,
+ uniGenetitle text,
+ uniGenesymbol text,
+ uniGeneID text,
+ NucleotideTitle text,
+ maximo real,
+ minimo real,
+ media real);
+
+ COPY dataclean FROM '/home/nomed/PEDSBD18/tarea4/DataClean.txt'
+ WITH (DELIMITER E'\t');
+
+
