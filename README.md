@@ -8,3 +8,5 @@ Evaluation practices and development exercises
 * Sistemas Distribuidos                = 10/10
 * Aprendizaje Automático PEC1 Knn      = 9,88/10
 * Aprendizaje Automático PEC2 SVM      = 10/10
+* Sistemas de Bases de Datos           = 10/10
+
