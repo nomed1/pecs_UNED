@@ -2,7 +2,7 @@
 Evaluation practices and development exercises
 
 
-**Ratings**
+**Grades**
 
 * Amplicación de Sistemas Inteligentes = 10/10
 * Sistemas Distribuidos                = 10/10
